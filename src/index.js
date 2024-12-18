@@ -11,7 +11,7 @@ const sectors = [
     color: "#FF5A10", 
     text: "#333333", 
     label: "Batik", 
-    image: "images/batik.jpeg",
+    image: "image/batik.jpeg",
     questions: ["Batik diakui oleh UNESCO pada tahun berapa?", "Sebutkan salah satu motif batik terkenal!"] 
   },  { color: "#FFBC03", text: "#333333", label: "Ulos", questions: ["Ulos berasal dari suku apa?", "Apa arti simbolik kain Ulos?"] },
   { color: "#FF5A10", text: "#333333", label: "Payas Agung", questions: ["Payas Agung berasal dari daerah mana?", "Apa ciri khas dari pakaian ini?"] },
